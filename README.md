@@ -2,7 +2,7 @@
 This repository contains the experimentations and code utilized for the study "Applying Explainable Machine Learning Models for Detection of Breast Cancer Lymph Node Metastasis in Patients Eligible for Neoadjuvant Treatment"
 
 
-This project focuses on training and validating several machine learning algorithms with the purpose of accurately classifying breast cancer lymph node metastasis using only clincopathological data.
+This project focuses on training and validating several machine learning algorithms with the purpose of accurately classifying breast cancer lymph node metastasis using only clincopathological data, with a focus on patients who are eligible for neoadjuvant treatment.
 
 NOTE: Data used in this study is still used in other ongoing studies and hence not yet available.
 
