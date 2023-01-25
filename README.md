@@ -6,7 +6,7 @@ This project focuses on training and validating several machine learning algorit
 
 NOTE: Data used in this study is still used in other ongoing studies and hence not yet available.
 
-The work from this repository was published in a peer-reviewed journal Cancers (MDPI) and is available at: https://www.mdpi.com/2072-6694/15/3/634.
+The work from this repository was published in a peer-reviewed journal *Cancers* (MDPI) and is available at: https://www.mdpi.com/2072-6694/15/3/634.
 
 The *target* variable is the presence of lymph node metastasis (0/1), while the predicitve features used for model training are: 
 - patient age (in years)
