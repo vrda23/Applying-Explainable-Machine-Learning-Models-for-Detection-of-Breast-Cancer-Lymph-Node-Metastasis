@@ -13,7 +13,7 @@ The *target* variable is the presence of lymph node metastasis (0/1), while the 
 - tumour size (in cm)
 - tumour grade (1-3)
 - histological type (NOS-invasive, Lobular Invasive, Ca with medullary characteristics, Other (Rare Types))
-- immunophenotype (Luminal A, Luminal B, Triple-negative, Her2 positive, Luminal-B-Her2-positive)
+- immunophenotype (Luminal A, Luminal B, Triple-negative, Her2 positive, Luminal-B-Her2-positive) - later excluded because the model can learn all the relationships by itself
 - ER (estrogen receptors) (0-100)
 - PR (progesteron receptors) (0-100)
 - HER-2 (human epidermal growth factor receptors) (0-3)
