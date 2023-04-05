@@ -4,6 +4,8 @@ This repository contains the experimentations and code utilized for the study "A
 
 This project focuses on training and validating several machine learning algorithms with the purpose of accurately classifying breast cancer lymph node metastasis using only clincopathological data, with a focus on patients who are eligible for neoadjuvant treatment.
 
+Link to a streamlit app: https://vrda23-applying-explainable-machine-learni-app-streamlit-20c3zr.streamlit.app/
+
 NOTE: Data used in this study is still used in other ongoing studies and hence not yet available.
 
 The work from this repository was published in a peer-reviewed journal *Cancers* (MDPI) and is available at: https://www.mdpi.com/2072-6694/15/3/634.
